@@ -8,11 +8,12 @@ type: intro
 ABY (Artist Be Yourself)<br/>
 ELLE®<br/>
 K-11<br/>
+MASS minors<br/>
 New Balance<br/>
 Nike<br/>
 Levi’s®<br/>
 YOHO!<br/>
-八平<br/>
+八平 8m²<br/>
 城市畫報<br/>
 獨角放送室<br/>
 方所<br/>
@@ -50,6 +51,7 @@ HakTang<br/>
 Harmony Community Foundation<br/>
 K-11<br/>
 Levi’s®<br/>
+MASS minors<br/>
 New Balance<br/>
 Neweekly Magazine<br/>
 Nike<br/>
