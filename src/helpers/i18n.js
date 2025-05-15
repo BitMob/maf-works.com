@@ -25,8 +25,8 @@ export default {
     zh: "技術",
   },
   tools: {
-    en: "commissions",
-    zh: "委託",
+    en: "collaboration",
+    zh: "合作",
   },
   experience: {
     en: "experience",
