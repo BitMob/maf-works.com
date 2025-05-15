@@ -3,7 +3,7 @@ titleZh: 《ringing in the ears》唱片封面設計
 titleEn: "'ringing in the ears' Cover Art"
 clientZh: Self-publishing
 clientEn: Self-publishing
-date: 2024-05-13
+date: 2025-05-13
 category: graphic
 
 thumb: cover-ringing-0.jpg

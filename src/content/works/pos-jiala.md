@@ -3,7 +3,7 @@ titleZh: WOMB 海報設計
 titleEn: "WOMB Poster"
 clientZh: "JiaLa"
 clientEn: "JiaLa"
-date: 2025-03-30
+date: 2025-03-26
 category: graphic
 
 thumb: pos-jiala-0.jpg
