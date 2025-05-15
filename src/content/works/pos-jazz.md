@@ -11,3 +11,9 @@ gallery:
   - pos-jazz-1.jpg
   - pos-jazz-2.jpg
 ---
+
+Art Director / Graphic Designer: maf<br/>
+
+<!-- lang -->
+
+Art Director / Graphic Designer: maf<br/>

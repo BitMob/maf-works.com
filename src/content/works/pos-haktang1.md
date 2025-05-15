@@ -10,3 +10,9 @@ thumb: pos-haktang1-0.jpg
 gallery:
   - pos-haktang1-1.jpg
 ---
+
+Art Director / Graphic Designer: maf<br/>
+
+<!-- lang -->
+
+Art Director / Graphic Designer: maf<br/>

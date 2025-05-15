@@ -10,3 +10,9 @@ thumb: pos-bc2011-0.jpg
 gallery:
   - pos-bc2011-1.jpg
 ---
+
+Art Director / Graphic Designer: maf<br/>
+
+<!-- lang -->
+
+Art Director / Graphic Designer: maf<br/>

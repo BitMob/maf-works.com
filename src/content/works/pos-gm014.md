@@ -10,3 +10,9 @@ thumb: pos-gm014-0.jpg
 gallery:
   - pos-gm014-1.jpg
 ---
+
+Art Director / Graphic Designer: maf<br/>
+
+<!-- lang -->
+
+Art Director / Graphic Designer: maf<br/>

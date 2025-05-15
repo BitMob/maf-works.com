@@ -10,3 +10,9 @@ thumb: pos-duyicheng-0.jpg
 gallery:
   - pos-duyicheng-1.jpg
 ---
+
+Art Director / Graphic Designer: maf<br/>
+
+<!-- lang -->
+
+Art Director / Graphic Designer: maf<br/>

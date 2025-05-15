@@ -10,3 +10,9 @@ thumb: pos-baping4-0.jpg
 gallery:
   - pos-baping4-1.jpg
 ---
+
+Art Director / Graphic Designer: maf<br/>
+
+<!-- lang -->
+
+Art Director / Graphic Designer: maf<br/>

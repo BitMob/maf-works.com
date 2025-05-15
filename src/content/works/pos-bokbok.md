@@ -10,3 +10,9 @@ thumb: pos-bokbok-0.jpg
 gallery:
   - pos-bokbok-1.jpg
 ---
+
+Art Director / Graphic Designer: maf<br/>
+
+<!-- lang -->
+
+Art Director / Graphic Designer: maf<br/>
