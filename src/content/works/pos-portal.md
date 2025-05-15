@@ -10,3 +10,9 @@ thumb: pos-portal-0.jpg
 gallery:
   - pos-portal-1.jpg
 ---
+
+Art Director / Graphic Designer: maf<br/>
+
+<!-- lang -->
+
+Art Director / Graphic Designer: maf<br/>

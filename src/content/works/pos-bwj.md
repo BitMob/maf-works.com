@@ -10,3 +10,9 @@ thumb: pos-bwj-0.jpg
 gallery:
   - pos-bwj-1.jpg
 ---
+
+Art Director / Graphic Designer: maf<br/>
+
+<!-- lang -->
+
+Art Director / Graphic Designer: maf<br/>

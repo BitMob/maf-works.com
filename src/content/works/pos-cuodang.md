@@ -10,3 +10,9 @@ thumb: pos-cuodang-0.jpg
 gallery:
   - pos-cuodang-1.jpg
 ---
+
+Art Director / Graphic Designer: maf<br/>
+
+<!-- lang -->
+
+Art Director / Graphic Designer: maf<br/>

@@ -13,3 +13,9 @@ gallery:
   - pos-fujin-3.jpg
   - pos-fujin-4.jpg
 ---
+
+Art Director / Graphic Designer: maf<br/>
+
+<!-- lang -->
+
+Art Director / Graphic Designer: maf<br/>
