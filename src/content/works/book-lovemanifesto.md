@@ -3,7 +3,7 @@ titleZh: 《(無效率)愛的宣言》書籍設計
 titleEn: "'(inefficient) Love Manifesto' Book Design"
 clientZh: Coordinator
 clientEn: Coordinator
-date: 2099-01-01
+date: 2023-10-01
 category: graphic
 
 thumb: ILM-0.jpg
