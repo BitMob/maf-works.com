@@ -3,7 +3,7 @@ titleZh: 《An Archive of Work》書籍設計
 titleEn: "'An Archive of Work' Book Design"
 clientZh: mafmadmaf
 clientEn: mafmadmaf
-date: 2099-01-01
+date: 2024-04-04
 category: graphic
 
 thumb: FieldArtBook-0.jpg
