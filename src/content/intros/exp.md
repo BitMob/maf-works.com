@@ -3,7 +3,7 @@ slug: experience
 type: intro
 ---
 
-### 創辦人 / 設計與製作總監 @ Jyugam (音樂發行)
+### 創辦人 / 出版人 / 設計與製作總監 @ Jyugam
 
 2020 - 現在
 
@@ -14,6 +14,12 @@ type: intro
 2017 - 現在
 
 為「觀心亭」設計研究性出品，進行平面设计的可能性的探討和嘗試。
+
+### 設計總監 / 設計師 @ 水象 Be Water Journal
+
+2017
+
+為《水象 Be Water Journal》創刊成員之一，參與其採編攝影、書籍設計、網站建設等成立全過程。
 
 ### 美術總監 / 交互設計師 @ BitMob Creative Digital (BCD)
 
@@ -55,7 +61,7 @@ type: intro
 
 <!-- lang -->
 
-### Founder / Design & Product Director @ Jyugam (Music Publishing)
+### Founder / Publisher /  Design & Product Director @ Jyugam
 
 2020 - NOW
 
@@ -66,6 +72,12 @@ Relying on more than ten years of experience in design and publishing, founded J
 2017 - NOW
 
 Design artist's books for “The Pavilion", to explore the possibility of graphic design.
+
+### Design Director / Designer @ 觀心亭 The Pavilion
+
+2017
+
+One of the founding members of *Be Water Journal*, contributing to its editorial work, photography, book design, and website development throughout its establishment.
 
 ### Art Director / UI.UX Designer @ BitMob Creative Digital (BCD)
 
