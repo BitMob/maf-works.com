@@ -24,7 +24,7 @@ type: intro
 
 <!-- lang -->
 
-Born in 1987 and raised in Guangzhou with a biology science background, maf ([mafmadmaf](https://mafmadmaf.com/)) describes his creative process as synthesis, spanning sound and visual arts by selecting, arranging, and synthesizing elemental units. With extensive experience in musical instruments and professional graphic design, he skillfully uses composition, visualization, and computer programming to capture nuanced observations. His works encompass sound art, installations, imagery, and publications characterized by minimalism, revealing a restrained yet romantic spirit and a passion for experimentation.
+Born in 1987 and raised in Canton with a biology science background, maf ([mafmadmaf](https://mafmadmaf.com/)) describes his creative process as synthesis, spanning sound and visual arts by selecting, arranging, and synthesizing elemental units. With extensive experience in musical instruments and professional graphic design, he skillfully uses composition, visualization, and computer programming to capture nuanced observations. His works encompass sound art, installations, imagery, and publications characterized by minimalism, revealing a restrained yet romantic spirit and a passion for experimentation.
 He has been running an independent publishing house [Jyugam](https://jyugam.com) since 2020. 
 
 In the past few years, he has enjoyed supporting and collaborating with artists and institutions from various fields, such as film, music, performance, and dance, while also participating in the following projects through music and installation creation:<br/>
