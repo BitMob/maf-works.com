@@ -6,9 +6,9 @@ const contentDir = `${__dirname}/src/content`;
 
 module.exports = {
   siteMetadata: {
-    title: `maf's gallery`,
-    description: `About maf`,
-    author: `maf`,
+    title: `designed by maf-works.com`,
+    description: `about maf-works.com`,
+    author: `maf-works.com`,
   },
   plugins: [
     "gatsby-plugin-sass",
