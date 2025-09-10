@@ -3,8 +3,8 @@ export default {
     //zh: "關於  馬飛兒（maf）",
     //en: "About maf, a designer.",
     //zh: "作品陳列館",
-    zh: "世界那樣美 我的設計這麼兒嬉 僅夠對抗乏味",
-    en: "世界那樣美 我的設計這麼兒嬉 僅夠對抗乏味",
+    zh: "designed by maf-works.com",
+    en: "designed by maf-works.com",
     //en: "la galerie de maf",
     //en: "gallery of maf's design practice · 2011 - 2020",
   },
@@ -14,15 +14,15 @@ export default {
   },
   fold: {
     en: "fold",
-    zh: "折疊",
+    zh: "收埋",
   },
   expand: {
-    en: "expand",
-    zh: "展開",
+    en: "unfold",
+    zh: "睇睇",
   },
   techniques: {
     en: "techniques",
-    zh: "技術",
+    zh: "熟手",
   },
   tools: {
     en: "collaboration",
@@ -34,7 +34,7 @@ export default {
   },
   viewProject: {
     en: "view project",
-    zh: "打開網站",
+    zh: "打開網址",
   },
   backHome: {
     en: "home",

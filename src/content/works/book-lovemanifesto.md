@@ -40,6 +40,8 @@ gallery:
 
 藝術家書作為藝術表達的一種媒介，承載物質以及翻閱方式傳達出創作者對不同材料的思考和態度。「(無效率)愛的宣言」，通過七位使用不同媒介進行創作的藝術家對材料的敏感，以及三位寫作者對「愛」從語言學、建築學與社會學角度的理解，回溯「愛」這個概念的形成。更重要的是，促使人去想象，「愛」在未來將如何流變。
 
+《(無效率)愛的宣言》現藏於 Common Imprint（柏林），亞洲藝術文獻庫（香港），大館當代藝術館藝術家書籍圖書館（香港）和大都會藝術博物館托馬斯·J·沃森圖書館（紐約）。
+
 出品團隊<br/>
 概念/總編：肘力<br/>
 特約編輯：zhangzin<br/>
@@ -63,6 +65,8 @@ gallery:
 The cover design uses colourless debossing to create touchable text. In terms of the title design, the Chinese character “(inefficient)” (无效率) replaces the heart (心) in love (愛), responding to the fluidity of the meaning of love. Inspired by the philosopher Byung-Chul Han’s concept of Burnout Society, the idea of “(inefficient)” hints at the fact that the act of love cannot be evaluated like the economic performance in a capitalist context.
 
 Artists’ book, as a way of artistic expression, not only carries out ideas, but their materials and the way of reading also convey the creator’s awareness of materiality and its relationship to contents. (inefficient) LOVE MANIFESTO includes works from seven artists who are highly aware of their use of different mediums and articles from three writers who analyze love from linguistics, architecture and sociology perspectives.
+
+The book is now held in the collections of Common Imprint (Berlin), Asia Art Archive (Hong Kong), Tai Kwun Contemporary Artists’ Book Library (Hong Kong), and the Thomas J. Watson Library at The Metropolitan Museum of Art (New York).
 
 Executive Team<br/>
 Concept/Editor-in-Chief: Jolie Zhou<br/>
