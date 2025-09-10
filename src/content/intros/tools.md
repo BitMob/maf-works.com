@@ -3,9 +3,6 @@ slug: tools
 type: intro
 ---
 
-fredmamono[at]gmail.com
-
-**過往合作**<br/>
 1200 Bookshop<br/>
 1626 雜誌<br/>
 ABY (Artist Be Yourself)<br/>
@@ -37,9 +34,6 @@ YOHO!<br/>
 
 <!-- lang -->
 
-fredmamono[at]gmail.com
-
-**previous collaborations**<br/>
 1200 Bookshop<br/>
 1626 Magazine<br/>
 8m²<br/>

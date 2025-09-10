@@ -10,6 +10,8 @@ type: intro
 
 與此同時，他以 [mafmadmaf](https://mafmadmaf.com) 為名，長期且活躍地進行聲音、藝術編碼和裝置的創作實踐。
 
+fredmamono[at]gmail.com
+
 <!-- 1987 年出生並成長於廣州，生物學畢業，maf 想以「合成」來概括他的創作方式，無論是聲音上或是視覺上，皆以單位元素的篩選、排列、合成來構建而成。多年的繪畫、樂器訓練和專業的出版設計從業經驗以聯覺互通，他通過純熟運用作曲、視覺設計、編程等不同手段去記錄那些細緻入微的觀察。作品涉及聲音藝術、裝置、圖像、出版物等，以極簡主義為特質，透露出其浪漫而克制、樂於實驗的內在精神，長期以 [mafmadmaf](https://mafmadmaf.com/) 為名進行相關活動。從事平面設計工作至今 15 年，2020 年起運作獨立出版機構 [Jyugam](https://jyugam.com)。
 
 在過去的幾年中，他樂於支持並和不同領域的藝術家和機構合作，如影像、音樂、行為、舞蹈等，曾參與以下的項目：Modular Festival of Tokyo (2018)、Modular Commune (2018.2020.2024)、越後妻有大地藝術祭·華園 (2020.2024)、浮梁大地藝術節 (2021.2022)、GUIA Experimental Macau (2022.2023.2024)、南海大地藝術節 (2022.2024)、第35屆澳⾨藝術節 (2025)、[瀨戶內國際藝術祭](https://setouchi-artfest.jp/tw/artworks/detail/9afb61f0-5f11-4db4-81cd-0d130398c2dd) (2025) -->
@@ -38,6 +40,8 @@ Over the years, he has led a print studio, co-founded an interaction design coll
 In 2023, he designed the artist book [(inefficient) Love Manifesto](https://maf-works.com/work/(inefficient)-love-manifesto-book-design/), initiated by Jolie and zhangzin. The book is now held in the collections of Common Imprint (Berlin), Asia Art Archive (Hong Kong), Tai Kwun Contemporary Artists’ Book Library (Hong Kong), and the Thomas J. Watson Library at The Metropolitan Museum of Art (New York). Work 'HakTang (Poster System HT 01)' deemed 'Excellent Work' and selected for the Tokyo TDC Annual Awards 2025.
 
 In parallel, he develops works across sound, creative coding, and installation under the name [mafmadmaf](https://mafmadmaf.com).
+
+fredmamono[at]gmail.com
 
 <!-- Born in 1987 and raised in Canton with a biology science background, maf ([mafmadmaf](https://mafmadmaf.com/)) describes his creative process as synthesis, spanning sound and visual arts by selecting, arranging, and synthesizing elemental units. With extensive experience in musical instruments and professional graphic design, he skillfully uses composition, visualization, and computer programming to capture nuanced observations. His works encompass sound art, installations, imagery, and publications characterized by minimalism, revealing a restrained yet romantic spirit and a passion for experimentation.
 He has been running an independent publishing house [Jyugam](https://jyugam.com) since 2020. 

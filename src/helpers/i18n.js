@@ -25,8 +25,8 @@ export default {
     zh: "熟手",
   },
   tools: {
-    en: "contact",
-    zh: "聯絡",
+    en: "collaborators",
+    zh: "合作",
   },
   experience: {
     en: "experience",
