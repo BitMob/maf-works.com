@@ -5,7 +5,7 @@ type: intro
 
 植根於廣州，生物科學專業，從事平面設計、印刷和出版工作已逾 15 年，靈感多數源於自我限制中尋找突破的裂縫，每每以文字、圖形和圖片的理性排列為切入點，企圖對邏輯化的信息進行浪漫詮釋。
 
-多年來先後主導和運作過印刷工作室、交互設計小組，並為廣州本地獨立文化活動給予大量設計支持；於 2020 年成立的出版工作室 [Jyugam](https://jyugam.com) 是他圍繞聲音作品進行設計、出版的一次重要嘗試，截至 2025 年 9 月已完成 18 張磁帶專輯。2023 年，由他擔綱書籍設計，肘力和 zhangzin 發起的藝​​術家書籍項目[《(無效率)愛的宣言》](https://maf-works.com/work/(inefficient)-love-manifesto-book-design/)，現藏於柏林 Common Imprint，香港亞洲藝術文獻庫，香港大館當代藝術館藝術家書籍圖書館和紐約大都會藝術博物館托馬斯·J·沃森圖書館。2025 年，HakTang 系列海報 Poster System HT 01 獲評為「Excellent Work」並入選 2025 年東京 TDC 年度獎。
+多年來先後主導和運作過印刷工作室、交互設計小組，並為廣州本地獨立文化活動給予大量設計支持；於 2020 年成立的出版工作室 [Jyugam](https://jyugam.com) 是他圍繞聲音作品進行設計、出版的一次重要嘗試，截至 2025 年 9 月已完成 18 張磁帶專輯。2023 年，由他擔綱書籍設計，肘力和 zhangzin 發起的藝​​術家書籍項目[《(無效率)愛的宣言》](https://maf-works.com/work/(inefficient)-love-manifesto-book-design/)，現藏於柏林 Common Imprint，香港亞洲藝術文獻庫，香港大館當代藝術館藝術家書籍圖書館和紐約大都會藝術博物館托馬斯·J·沃森圖書館。設計於 2024 年的 HakTang 系列海報「Poster System HT 01」獲評為「Excellent Work」並入選 2025 年東京 TDC 年度獎。
 
 與此同時，他以 [mafmadmaf](https://mafmadmaf.com) 為名，長期且活躍地進行聲音、藝術編碼和裝置的創作實踐。
 
@@ -34,9 +34,10 @@ fredmamono[at]gmail.com
 
 Based in Canton with a background in biological science, he has worked in graphic design, print, and publishing for over 15 years. His inspiration often arises from breaking through self-imposed constraints, using the rational arrangement of text, graphics, and images as a point of departure to offer a more poetic reading of structured information.
 
-Over the years, he has led a print studio, co-founded an interaction design collective, and provided extensive design support for independent cultural scenes in Canton. In 2020, he established the publishing studio [Jyugam](https://jyugam.com), an important venture dedicated to the design and release of sound-related works, which has produced 18 cassette albums to date (as of Sept 2025). 
+Over the years, he has led a print studio, co-founded an interaction design collective, and provided extensive design support for independent cultural scenes in Canton. In 2020, he established the publishing studio [Jyugam](https://jyugam.com), an important venture dedicated to the design and release of sound-related works, which has produced 18 cassette albums to date (Sept 2025). 
 
-In 2023, he designed the artist book [(inefficient) Love Manifesto](https://maf-works.com/work/(inefficient)-love-manifesto-book-design/), initiated by Jolie and zhangzin. The book is now held in the collections of Common Imprint (Berlin), Asia Art Archive (Hong Kong), Tai Kwun Contemporary Artists’ Book Library (Hong Kong), and the Thomas J. Watson Library at The Metropolitan Museum of Art (New York). Work 'HakTang (Poster System HT 01)' deemed 'Excellent Work' and selected for the Tokyo TDC Annual Awards 2025.
+In 2023, he designed the artist book [(inefficient) Love Manifesto](https://maf-works.com/work/(inefficient)-love-manifesto-book-design/), initiated by Jolie and zhangzin. The book is now held in the collections of Common Imprint (Berlin), Asia Art Archive (Hong Kong), Tai Kwun Contemporary Artists’ Book Library (Hong Kong), and the Thomas J. Watson Library at The Metropolitan Museum of Art (New York).<br/>
+Work 'HakTang (Poster System HT 01)' deemed 'Excellent Work' and selected for the Tokyo TDC Annual Awards 2025.
 
 In parallel, he develops works across sound, creative coding, and installation under the name [mafmadmaf](https://mafmadmaf.com).
 
