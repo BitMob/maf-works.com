@@ -18,7 +18,7 @@ export default {
   },
   expand: {
     en: "unfold",
-    zh: "睇睇",
+    zh: "攤開",
   },
   techniques: {
     en: "techniques",
