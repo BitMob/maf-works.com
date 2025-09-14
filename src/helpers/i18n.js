@@ -9,8 +9,8 @@ export default {
     //en: "gallery of maf's design practice · 2011 - 2020",
   },
   more: {
-    en: "more",
-    zh: "更多",
+    en: "menu",
+    zh: "menu",
   },
   fold: {
     en: "fold",
