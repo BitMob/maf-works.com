@@ -9,7 +9,7 @@ type: intro
 
 依靠十多年的設計出版經驗，創立獨立音樂出版工作室 Jyugam ([https://jyugam.com](https://jyugam.com))。為國內外聲音藝術家提供完整的視覺設計、作品發行和現場表演等服務。合作的藝術家有 WISEFAKE、Lastboss、Kagami Smile 等。
 
-### 平面設計顧問 @ 觀心亭 The Pavilion
+### 平面設計顧問 @ 觀心亭 / Vitamin Creative Space
 
 2017 - 現在
 
@@ -67,7 +67,7 @@ type: intro
 
 Relying on more than ten years of experience in design and publishing, founded Jyugam ([https://jyugam.com](https://jyugam.com)), an independent publishing studio for music, text and visuals. Provide services for sound artists with complete visual design, distribution and live performances. Cooperative artists include WISEFAKE, Lastboss, Kagami Smile, etc.
 
-### Graphic Design Consultant @ The Pavilion
+### Graphic Design Consultant @ The Pavilion / Vitamin Creative Space
 
 2017 - NOW
 
