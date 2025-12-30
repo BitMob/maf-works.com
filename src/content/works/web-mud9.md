@@ -16,12 +16,12 @@ gallery:
 
 錯誤累積到產生質變，成為社會正常的一部分，當羞恥感逐漸變成自豪。這是一個由比特魔 BITMOB® 策劃的虛擬陳列室，始於二零二零年十月。
 
-Art Director: maf<br/>
+Art Director: maf-works.com<br/>
 Lead Programmer: Ed Lee
 
 <!-- lang -->
 
 Mistakes accumulate to a qualitative change and become a normal part of society, while shame gradually becomes pride. This is a virtual gallery curated by BITMOB®, which started in October 2020.
 
-Art Director: maf<br/>
+Art Director: maf-works.com<br/>
 Lead Programmer: Ed Lee

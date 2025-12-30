@@ -12,10 +12,10 @@ gallery:
   - ei-1626-doom-2.jpg
 ---
 
-Editorial Illustration: maf<br/>
+Editorial Illustration: maf-works.com<br/>
 Editor: Van
 
 <!-- lang -->
 
-Editorial Illustration: maf<br/>
+Editorial Illustration: maf-works.com<br/>
 Editor: Van

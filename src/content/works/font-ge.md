@@ -12,8 +12,8 @@ gallery:
   - font-ge-2.jpg
 ---
 
-
+Art Director / Graphic Designer: maf-works.com<br/>
 
 <!-- lang -->
 
-
+Art Director / Graphic Designer: maf-works.com<br/>

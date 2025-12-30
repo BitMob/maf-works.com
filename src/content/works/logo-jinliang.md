@@ -25,6 +25,10 @@ gallery:
 宋體變化字形，橫筆末端裝飾為塊狀，但橫筆傾斜之後又接近原始宋體的三角形末端裝飾；
 簡化【點、撇、捺】筆畫，而強調【方塊/方框】和【線】這兩個幾何元素，與之後的圖形拆解關聯緊密。
 
+Art Director / Graphic Designer: maf-works.com<br/>
+
 <!-- lang -->
 
 Commissioned by ELLE® Jinliang Studio to design typography identity.
+
+Art Director / Graphic Designer: maf-works.com<br/>

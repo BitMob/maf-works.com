@@ -10,3 +10,9 @@ thumb: pos-superplant-0.jpg
 gallery:
   - pos-superplant-1.jpg
 ---
+
+Art Director / Graphic Designer: maf-works.com<br/>
+
+<!-- lang -->
+
+Art Director / Graphic Designer: maf-works.com<br/>

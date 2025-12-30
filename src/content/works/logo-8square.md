@@ -18,6 +18,10 @@ gallery:
 
 為廣州的唱片士多店「八平」設計字體 Logo。「8」字字型來自士多店的老窗花。
 
+Art Director / Graphic Designer: maf-works.com<br/>
+
 <!-- lang -->
 
 Design the typeface logo for the vinyl store '8m²' in Guangzhou. The '8' font comes from the old window grilles of the store.
+
+Art Director / Graphic Designer: maf-works.com<br/>

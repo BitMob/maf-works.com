@@ -14,8 +14,8 @@ gallery:
   - pos-haktang-4.jpg
 ---
 
-Art Director / Graphic Designer: maf<br/>
+Art Director / Graphic Designer: maf-works.com<br/>
 
 <!-- lang -->
 
-Art Director / Graphic Designer: maf<br/>
+Art Director / Graphic Designer: maf-works.com<br/>

@@ -14,6 +14,10 @@ gallery:
 
 獨立創意品牌「痂州牌 ®」視覺識別設計。
 
+Art Director / Graphic Designer: maf-works.com<br/>
+
 <!-- lang -->
 
 Creative boutique 'Cantonfornia®' logo design.
+
+Art Director / Graphic Designer: maf-works.com<br/>

@@ -10,3 +10,9 @@ thumb: onthefly-2-0.jpg
 gallery:
   - onthefly-2-1.jpg
 ---
+
+Art Director / Graphic Designer: maf-works.com<br/>
+
+<!-- lang -->
+
+Art Director / Graphic Designer: maf-works.com<br/>

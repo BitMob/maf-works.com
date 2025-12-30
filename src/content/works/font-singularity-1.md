@@ -16,6 +16,10 @@ gallery:
 
 為奇點計劃®重新設計的中文字體，以木刻版畫的刻刀痕跡為線索。
 
+Art Director / Graphic Designer: maf-works.com<br/>
+
 <!-- lang -->
 
 The Chinese font redesigned for the Singularity Plan®, using the traces of the carving knife in the woodblock prints.
+
+Art Director / Graphic Designer: maf-works.com<br/>

@@ -17,6 +17,10 @@ gallery:
 
 由「五金少女」團隊打造的簡易家具材料品牌，一幫年輕人為了解決租住空間的裝修問題，創造了它，獨具七十年代的美感。
 
+Art Director / Graphic Designer: maf-works.com<br/>
+
 <!-- lang -->
 
 A minimal furniture material brand created by the 'Kanamono Girls' team, a group of young people want to solve the living and decoration problem of rented space by living alone away from home.
+
+Art Director / Graphic Designer: maf-works.com<br/>

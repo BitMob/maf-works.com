@@ -13,6 +13,10 @@ gallery:
 
 為奇點計劃®重新設計的中文字體，第二次嘗試的成果。
 
+Art Director / Graphic Designer: maf-works.com<br/>
+
 <!-- lang -->
 
 The Chinese font redesigned for the Singularity Plan®. The result of the second attempt.
+
+Art Director / Graphic Designer: maf-works.com<br/>

@@ -14,7 +14,10 @@ gallery:
 
 為奇點計劃®所做的字體識別，該獨特漢字為奇點計劃創始人 ETH 創造，再交由我做字體設計。
 
+Art Director / Graphic Designer: maf-works.com<br/>
 
 <!-- lang -->
 
-New typeface design for Singularity Plan®. A unique Chinese character created by ETH, founder of Singularity Plan®. Font designed by maf.
+New typeface design for Singularity Plan®. A unique Chinese character created by ETH, founder of Singularity Plan®.
+
+Art Director / Graphic Designer: maf-works.com<br/>

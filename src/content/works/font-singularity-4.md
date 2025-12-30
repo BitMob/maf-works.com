@@ -14,7 +14,10 @@ gallery:
 
 為奇點計劃®所做的西文字型設計，有 26 個大寫字母和符號構成。
 
+Art Director / Graphic Designer: maf-works.com<br/>
 
 <!-- lang -->
 
 The western font design for Singularity Plan®, consists of 26 capital letters and symbols.
+
+Art Director / Graphic Designer: maf-works.com<br/>

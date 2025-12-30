@@ -11,8 +11,8 @@ gallery:
   - pos-qianhe-1.jpg
 ---
 
-Art Director / Graphic Designer: maf<br/>
+Art Director / Graphic Designer: maf-works.com<br/>
 
 <!-- lang -->
 
-Art Director / Graphic Designer: maf<br/>
+Art Director / Graphic Designer: maf-works.com<br/>

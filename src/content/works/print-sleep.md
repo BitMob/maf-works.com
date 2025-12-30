@@ -15,11 +15,11 @@ gallery:
 ---
 
 Illustrator: Patrick Miller<br/>
-Art Director / Graphic Designer: maf<br/>
-Riso Print & Publishing: maf
+Art Director / Graphic Designer: maf-works.com<br/>
+Riso Print & Publishing: maf-works.com
 
 <!-- lang -->
 
 Illustrator: Patrick Miller<br/>
-Art Director / Graphic Designer: maf<br/>
-Riso Print & Publishing: maf
+Art Director / Graphic Designer: maf-works.com<br/>
+Riso Print & Publishing: maf-works.com

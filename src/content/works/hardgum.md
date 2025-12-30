@@ -20,12 +20,12 @@ gallery:
 
 2019 年在廣州舉辦的合成器音樂活動，並錄製成視頻在線上播放。
 
-Curator / Graphic Designer: maf<br/>
+Curator / Graphic Designer: maf-works.com<br/>
 Contributors: Ed Lee, CDX, FFF, Haze, Ninelo
 
 <!-- lang -->
 
 Synthesizer live event at Guangzhou in 2019 and recorded as a video to play online.
 
-Curator / Graphic Designer: maf<br/>
+Curator / Graphic Designer: maf-works.com<br/>
 Contributors: Ed Lee, CDX, FFF, Haze, Ninelo

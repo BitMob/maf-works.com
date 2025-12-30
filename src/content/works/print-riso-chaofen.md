@@ -18,12 +18,12 @@ gallery:
 
 關於機器人的離奇故事，maf 的超短篇漫畫作品。
 
-Illustratior / Story: maf<br/>
-Riso Print & Publishing: maf
+Illustratior / Story: maf-works.com<br/>
+Riso Print & Publishing: maf-works.com
 
 <!-- lang -->
 
 A weird story of a robot, a super short comic of maf.
 
-Illustratior / Story: maf<br/>
-Riso Print & Publishing: maf
+Illustratior / Story: maf-works.com<br/>
+Riso Print & Publishing: maf-works.com

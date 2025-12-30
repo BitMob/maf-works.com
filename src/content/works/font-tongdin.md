@@ -13,8 +13,8 @@ gallery:
   - font-tongdin-3.jpg
 ---
 
-Art Director / Graphic Designer: maf<br/>
+Art Director / Graphic Designer: maf-works.com<br/>
 
 <!-- lang -->
 
-Art Director / Graphic Designer: maf<br/>
+Art Director / Graphic Designer: maf-works.com<br/>
