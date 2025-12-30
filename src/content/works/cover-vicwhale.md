@@ -1,6 +1,6 @@
 ---
 titleZh: 《維多利亞之鯨》唱片封面設計
-titleEn: "'The Victorian Whale' Cover Art'"
+titleEn: "'The Victorian Whale' Cover Art"
 clientZh: Jyugam
 clientEn: Jyugam
 date: 2025-07-22
