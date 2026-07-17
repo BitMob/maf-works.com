@@ -6,7 +6,7 @@ clientEn: "BuWuZhengYe"
 date: 2026-05-01
 category: graphic
 
-thumb: pos-bangtang-0.jpg
+thumb: pos-baotang-0.jpg
 gallery:
   - pos-baotang-1.jpg
 ---
