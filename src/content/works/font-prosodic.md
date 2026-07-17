@@ -8,6 +8,7 @@ category: graphic
 
 thumb: font-prosodic-0.jpg
 gallery:
+  - prosodic-vf-output.gif
   - font-prosodic-1.jpg
   - font-prosodic-2.png
   - font-prosodic-3.png
