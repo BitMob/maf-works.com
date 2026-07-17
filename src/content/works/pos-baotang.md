@@ -9,6 +9,7 @@ category: graphic
 thumb: pos-baotang-0.jpg
 gallery:
   - pos-baotang-1.jpg
+  - pos-baotang-2.jpg
 ---
 
 Art Director / Graphic Designer: maf-works.com<br/>

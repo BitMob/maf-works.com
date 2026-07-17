@@ -9,6 +9,7 @@ category: graphic
 thumb: pos-liuhua-0.jpg
 gallery:
   - pos-liuhua-1.jpg
+  - pos-liuhua-2.jpg
 ---
 
 Art Director / Graphic Designer: maf-works.com<br/>
