@@ -7,7 +7,7 @@ type: intro
 
 2020 - 現在
 
-依靠十多年的設計出版經驗，創立獨立音樂出版工作室 Jyugam ([https://jyugam.com](https://jyugam.com))。為國內外聲音藝術家提供完整的視覺設計、作品發行和現場表演等服務。合作的藝術家有 WISEFAKE、Lastboss、Kagami Smile 等。
+創立獨立音樂出版工作室 Jyugam ([https://jyugam.com](https://jyugam.com))。為國內外聲音藝術家提供完整的視覺設計、作品發行和現場表演等服務。合作的藝術家有 WISEFAKE、Lastboss、Kagami Smile 等。
 
 ### 平面設計顧問 @ 觀心亭 / Vitamin Creative Space
 
