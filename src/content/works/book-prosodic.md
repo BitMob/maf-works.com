@@ -38,17 +38,16 @@ gallery:
 
 書封使用 265 克雅特超感紙，無色壓印音調符號的外框；內頁使用 110 克雪松超感紙，帶來鬆軟、粗糙的翻閱手感，同時也造成顏色偏沉，以及紙粉脫落後露白的結果，但還好。
 
-語言：中文、英文
-尺寸：185 × 260 ㎜
+語言：中文、英文\
+尺寸：185 × 260 ㎜\
 頁數：287
 
-出版物致謝
-主編：郭鶴天、孫熳
-設計：maf-works.com
-攝影：姜六六
-統籌：[te editions](https://www.google.com.hk/url?sa=t&source=web&rct=j&opi=89978449&url=https://te-editions.com/&ved=2ahUKEwji-rbfsdmVAxWGS2wGHWAGIOIQFnoECBwQAQ&usg=AOvVaw2GXdOsy8AHf6x7jM5g-zNe)
-助理編輯：歐潔睿
-翻譯：黃羽婷
+出版物致謝\
+主編：郭鶴天、孫熳\
+設計：maf-works.com\
+統籌：[te editions](https://www.google.com.hk/url?sa=t&source=web&rct=j&opi=89978449&url=https://te-editions.com/&ved=2ahUKEwji-rbfsdmVAxWGS2wGHWAGIOIQFnoECBwQAQ&usg=AOvVaw2GXdOsy8AHf6x7jM5g-zNe)\
+助理編輯：歐潔睿\
+翻譯：黃羽婷\
 校對：湯雲艷、孫熳、秦可純、歐潔睿、錢文軒、張嘉偉、黃羽婷、蘇芊、金昕
 
 <!-- lang -->
@@ -63,13 +62,12 @@ The cover was printed on 265 gsm Arjowiggins Curious Matter paper, with the outl
 
 Languages: Chinese and English\
 Dimensions: 185 × 260 mm\
-Pages: 287\
+Pages: 287
 
 Acknowledgement\
 Editors-in-Chief: Michael GUO, Sun Man\
 Designer: maf-works.com\
-Photography: Jiang Liuliu\
 Coordination: [te editions](https://www.google.com.hk/url?sa=t&source=web&rct=j&opi=89978449&url=https://te-editions.com/&ved=2ahUKEwji-rbfsdmVAxWGS2wGHWAGIOIQFnoECBwQAQ&usg=AOvVaw2GXdOsy8AHf6x7jM5g-zNe)\
 Assistant Editor: OU Jierui\
 Translation: HUANG Yuting\
-Proofreading: TANG Yunyan, SUN Man, QIN Kechun, OU Jierui, QIAN Wenxuan, ZHANG Jiawei, HUANG Yuting, SU Qian, JIN Xin\
+Proofreading: TANG Yunyan, SUN Man, QIN Kechun, OU Jierui, QIAN Wenxuan, ZHANG Jiawei, HUANG Yuting, SU Qian, JIN Xin
