@@ -61,15 +61,15 @@ The Latin typeface used for "Prosodic Notes" on the cover and spine was newly de
 
 The cover was printed on 265 gsm Arjowiggins Curious Matter paper, with the outlines of the tonal symbols blind embossed. The interior pages use 110 gsm Cedar uncoated paper, creating a soft and slightly rough tactile experience. This choice also resulted in somewhat subdued colours and occasional white specks caused by paper dust coming loose, but the overall effect remains acceptable.
 
-Languages: Chinese and English
-Dimensions: 185 × 260 mm
-Pages: 287
+Languages: Chinese and English\
+Dimensions: 185 × 260 mm\
+Pages: 287\
 
-Acknowledgement
-Editors-in-Chief: Michael GUO, Sun Man
-Designer: maf-works.com
-Photography: Jiang Liuliu
-Coordination: [te editions](https://www.google.com.hk/url?sa=t&source=web&rct=j&opi=89978449&url=https://te-editions.com/&ved=2ahUKEwji-rbfsdmVAxWGS2wGHWAGIOIQFnoECBwQAQ&usg=AOvVaw2GXdOsy8AHf6x7jM5g-zNe)
-Assistant Editor: OU Jierui
-Translation: HUANG Yuting
-Proofreading: TANG Yunyan, SUN Man, QIN Kechun, OU Jierui, QIAN Wenxuan, ZHANG Jiawei, HUANG Yuting, SU Qian, JIN Xin
+Acknowledgement\
+Editors-in-Chief: Michael GUO, Sun Man\
+Designer: maf-works.com\
+Photography: Jiang Liuliu\
+Coordination: [te editions](https://www.google.com.hk/url?sa=t&source=web&rct=j&opi=89978449&url=https://te-editions.com/&ved=2ahUKEwji-rbfsdmVAxWGS2wGHWAGIOIQFnoECBwQAQ&usg=AOvVaw2GXdOsy8AHf6x7jM5g-zNe)\
+Assistant Editor: OU Jierui\
+Translation: HUANG Yuting\
+Proofreading: TANG Yunyan, SUN Man, QIN Kechun, OU Jierui, QIAN Wenxuan, ZHANG Jiawei, HUANG Yuting, SU Qian, JIN Xin\
