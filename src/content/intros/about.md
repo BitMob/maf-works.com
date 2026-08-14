@@ -34,7 +34,7 @@ fredmamono[at]gmail.com
 
 <!-- lang -->
 
-Based in Canton with a background in biological science, he has worked in graphic design, print, and publishing for over 15 years. His inspiration often arises from breaking through self-imposed constraints, using the rational arrangement of text, graphics, and images as a point of departure to offer a more poetic reading of structured information.
+Based in Canton with a background in biological science, he has worked in graphic design, print, and publishing for over 16 years. His inspiration often arises from breaking through self-imposed constraints, using the rational arrangement of text, graphics, and images as a point of departure to offer a more poetic reading of structured information.
 
 Over the years, he has led a print studio, co-founded an interaction design collective, and provided extensive design support for independent cultural scenes in Canton. In 2020, he established the publishing studio [Jyugam](https://jyugam.com), an important venture dedicated to the design and release of sound-related works, which has produced 21 cassette albums to date (Aug 2026). 
 
