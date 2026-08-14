@@ -6,7 +6,7 @@ clientEn: Prosodic
 date: 2026-07-18
 category: graphic
 
-thumb: font-prosodic-0.jpg
+thumb: font-prosodic-v.gif
 gallery:
   - font-prosodic-1.jpg
   - Slice-1.jpg
