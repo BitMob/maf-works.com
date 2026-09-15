@@ -1,6 +1,6 @@
 ---
 titleZh: 「GUM 晚打老虎」海報設計
-titleEn: "Comment allez-vous? Poster"
+titleEn: "Comment allez-vous Poster"
 clientZh: "GUM"
 clientEn: "GUM"
 date: 2026-09-10
