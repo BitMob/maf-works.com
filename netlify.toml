@@ -1,2 +1,2 @@
 [build]
-  command = "npm run clean && npm run build"
+  command = "rm -rf /opt/build/cache/cwd/.cache /opt/build/cache/cwd/public && npm run clean && npm run build"
